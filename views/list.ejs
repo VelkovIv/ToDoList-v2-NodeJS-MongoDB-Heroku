@@ -1,9 +1,15 @@
 <%- include("partials/header") -%>
+  <div class="newList">To add a new Todo list:
+    <ol>
+      <li>delete the text in address bar after the <strong>/</strong></li>
+      <li>write the list name and press Enter</li>
+    </ol> 
+  </div>
 
   <div class="box" id="heading">
     <h1> <%= listTitle %> </h1>
   </div>
-
+  
   <div class="box">
     <% newListItems.forEach(function(item) { %>
       <form action="/delete" method="post">
