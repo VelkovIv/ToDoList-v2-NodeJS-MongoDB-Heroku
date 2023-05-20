@@ -37,14 +37,11 @@ h1 {
 .newList {
   max-width: 300px;
   margin: 10px auto;
-  font-size: 12px;
+  font-size: 14px;
   color:  #A683E3;
   padding: 0;
 }
 
-.footer {
-  color: #F1F1F1;
-}
 
 input:checked+p {
   text-decoration: line-through;
