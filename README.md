@@ -1,4 +1,4 @@
-# ToDoList-v2-Node-Mongoose
+# ToDoList-v2-NodeJS-MongoDB-Heroku
 Web App ToDo List wotking with Node, Express, Bootstrap, <%= EJS %> and Mondo DB <br>
 <img src='https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-svg-vector.svg' height=30px>
 <img src='https://www.moesif.com/blog/images/posts/2022-12-15-Top-5-NodeJs-REST-API-Frameworks/Expressjs.png' height=40px>
