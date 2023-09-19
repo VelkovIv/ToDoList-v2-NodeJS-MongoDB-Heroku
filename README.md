@@ -7,7 +7,7 @@ Web App ToDo List wotking with Node, Express, Bootstrap, <%= EJS %> and Mondo DB
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
 
 
-Same as <a href='https://github.com/VelkovIv/ToDoList-V1-node'>ToDo List-v1</a> but with  Mondo DB - Atlas and <a href='#'>web app</a> on Heroku - <strong>the app is not working for the moment</strong>
+Same as <a href='https://github.com/VelkovIv/ToDoList-V1-node'>ToDo List-v1</a> but with  Mondo DB - Atlas and <a href=' '>web app</a> on Heroku - <strong>the app is not working for the moment</strong>
 
 ![image](https://github.com/VelkovIv/ToDoList-v2-Node-Mongoose/assets/114020789/294dac4a-783e-40ac-a0b7-48bdf525046d)
 
